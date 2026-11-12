@@ -1,0 +1,9 @@
+{
+  "name": "terse",
+  "version": "1.0.0",
+  "description": "Cut token usage: answer-first replies with exact technical details, leaner tool reads, compact commits and reviews, and compressed memory files.",
+  "author": {
+    "name": "social-skills"
+  },
+  "keywords": ["tokens", "cost", "concise", "brevity", "productivity"]
+}

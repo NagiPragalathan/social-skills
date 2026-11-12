@@ -1,0 +1,19 @@
+{
+  "name": "social-skills",
+  "owner": {
+    "name": "social-skills"
+  },
+  "metadata": {
+    "description": "In-house Claude Code plugins.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "terse",
+      "source": "./plugins/terse",
+      "description": "Cut token usage: answer-first replies with exact technical details, leaner tool reads, compact commits and reviews, and compressed memory files.",
+      "version": "1.0.0",
+      "category": "productivity"
+    }
+  ]
+}
